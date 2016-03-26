@@ -1,0 +1,2 @@
+hellomake: test_assign1_1.c dberror.c storage_mgr.c
+	gcc -o hellomake test_assign1_1.c
